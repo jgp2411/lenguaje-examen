@@ -1,0 +1,58 @@
+{
+"prendas" : [ {
+	"camisetas" : [ {
+		"manga" : "corta",
+		"marca" : "mike",
+		"tallas" : "S, M y L"},
+		{
+		"manga" : "larga",
+		"marca" : "addidas",
+		"tallas" : "M y L"},
+		{
+		"manga" : "sin mangas",
+		"marca" : "gordan",
+		"tallas" : "M , L y XL"}
+	],
+	"pantalones" : [ {
+		"piernas" : "cortos",
+		"marca" : "gordan",
+		"tallas" : "S, M y XL"
+},
+{
+		"piernas" : "cortos",
+		"marca" : "mike",
+		"tallas" : "S y M"
+},
+{
+		"piernas" : "largos",
+		"marca" : "addidas",
+		"tallas" : "M y XL"
+}],
+	"zapatillas" :[{
+		"tipo" : "baloncesto",
+		"marca" : "gordan",
+		"tallas" : "41, 43, 45"
+	},
+	{
+		"tipo" : "futbol",
+		"marca" : "messirve",
+		"tallas" : "40, 41, 42"
+	},
+	{
+		"tipo" : "baloncesto",
+		"marca" : "mike",
+		"tallas" : "44, 45, 46"
+	}]
+
+	
+
+
+
+
+
+}
+
+
+]
+
+}
